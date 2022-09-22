@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<sifrarnici>
+
+<artikli>
+<artikl sifra="AR1" kategorija="1" naziv="Cement Vinkovacki 10/50" jmj="kg" jed_cijena="58.00"/>
+<artikl sifra="AR2" kategorija="2" naziv="Belton-crna-1 litra" jmj="kom" jed_cijena="15.50"/>
+<artikl sifra="AR3" kategorija="3" naziv="Bosch svrdlo 14 sn:12432" jmj="kom" jed_cijena="1353.50"/>
+<artikl sifra="AR4" kategorija="3" naziv="Bosch dijamantno svrdlo 14 sn:12122" jmj="kom" jed_cijena="13353.50"/>
+</artikli>
+
+<kategorije>
+<kategorija sifra="KAT1" naziv="Gradevinski materijal"/>
+<kategorija sifra="KAT2" naziv="Boje i lakovi"/>
+<kategorija sifra="KAT3" naziv="Alati i oprema"/>
+</kategorije>
+
+</sifrarnici>
+
+
+<skladiste sifra="10000">
+<artikl sifra="AR1" kolicina="25"/>
+<artikl sifra="AR2" kolicina="18"/>
+<artikl sifra="AR3" kolicina="7"/>
+<artikl sifra="AR4" kolicina="2"/>
+</skladiste>
+
+<fakture>
+<faktura sifra="1000" datum="02-09-2019">
+
+<stavke>
+<stavka sifra="AR1" kolicina="1" ukupna_cijena="58.00"/>
+<stavka sifra="AR2" kolicina="1" ukupna_cijena="15.50"/>
+<stavka sifra="AR3" kolicina="1" ukupna_cijena="1353.50"/>
+<stavka sifra="AR4" kolicina="1" ukupna_cijena="13353.50"/>
+</stavke>
+
+</faktura>
+
+
+<faktura sifra="1001" datum="01-09-2019">
+<stavke>
+<stavka sifra="AR1" kolicina="2" ukupna_cijena="116.00"/>
+<stavka sifra="AR2" kolicina="2" ukupna_cijena="31.00"/>
+<stavka sifra="AR3" kolicina="2" ukupna_cijena="2707"/>
+</stavke>
+</faktura>
+
+
+<faktura sifra="1002" datum="03-09-2019">
+<stavke>
+<stavka sifra="AR1" kolicina="4" ukupna_cijena="232.00"/>
+</stavke>
+</faktura>
+
+<faktura sifra="1003" datum="04-09-2019">
+<stavke>
+<stavka sifra="AR2" kolicina="4" ukupna_cijena="232.00"/>
+</stavke>
+</faktura>
+</fakture>
+
+</data>

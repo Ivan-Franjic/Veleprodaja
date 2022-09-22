@@ -1,0 +1,9 @@
+﻿  PIN_Gradnja.cpp
+D:\VisualStudioProjects\Objektno-orijentirano-programiranje\Veleprodaja\Veleprodaja\PIN_Gradnja.cpp(54,21): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudioProjects\Objektno-orijentirano-programiranje\Veleprodaja\Veleprodaja\PIN_Gradnja.cpp(62,38): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudioProjects\Objektno-orijentirano-programiranje\Veleprodaja\Veleprodaja\PIN_Gradnja.cpp(83,21): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudioProjects\Objektno-orijentirano-programiranje\Veleprodaja\Veleprodaja\PIN_Gradnja.cpp(125,22): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudioProjects\Objektno-orijentirano-programiranje\Veleprodaja\Veleprodaja\PIN_Gradnja.cpp(133,54): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudioProjects\Objektno-orijentirano-programiranje\Veleprodaja\Veleprodaja\PIN_Gradnja.cpp(208,19): warning C4018:  '<': signed/unsigned mismatch
+D:\VisualStudioProjects\Objektno-orijentirano-programiranje\Veleprodaja\Veleprodaja\PIN_Gradnja.cpp(221,22): warning C4018:  '<': signed/unsigned mismatch
+  Veleprodaja.vcxproj -> D:\VisualStudioProjects\Objektno-orijentirano-programiranje\Veleprodaja\Debug\Veleprodaja.exe
